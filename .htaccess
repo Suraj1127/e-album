@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^([a-z0-9A-z]+)$ home.php?profile=$1
+
+
+
